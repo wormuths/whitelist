@@ -1,3 +1,4 @@
 backblaze.com
+backblazeb2.com
 cloudflare.com
 gab.com
