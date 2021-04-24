@@ -1,4 +1,13 @@
+##################################
+#    BackBlaze Cloud Services    #
+##################################
 backblaze.com
 backblazeb2.com
+###################################
+#    CloudFlare Cloud Services    #
+###################################
 cloudflare.com
+################################
+#    Social Media Companies    #
+################################
 gab.com
