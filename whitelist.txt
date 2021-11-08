@@ -17,6 +17,10 @@ backblazeb2.com
 #    CloudFlare Cloud Services    #
 ###################################
 cloudflare.com
+################################
+#       Gab Social Media       #
+################################
+gab.com
 ###########################
 #    Plex Media Player    #
 ###########################
@@ -32,6 +36,7 @@ status.plex.tv
 vod.provider.plex.tv
 www.plex.tv
 ################################
-#    Social Media Companies    #
+#   SimpliSafe Alarm System    #
 ################################
-gab.com
+sb.simplisafe.com
+simplisafe.com
