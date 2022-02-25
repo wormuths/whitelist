@@ -1,42 +1,4 @@
-##################################
-#      Apple Cloud Services      #
-##################################
-#                            APPLE
-appleid.apple.com
-itunes.apple.com
-#                  ICLOUD SERVICES
-icloud.com
-#                    MAIL SERVICES
-smtp.mail.me.com
-##################################
-#    BackBlaze Cloud Services    #
-##################################
-backblaze.com
-backblazeb2.com
 ###################################
 #    CloudFlare Cloud Services    #
 ###################################
 cloudflare.com
-################################
-#       Gab Social Media       #
-################################
-gab.com
-###########################
-#    Plex Media Player    #
-###########################
-app.plex.tv
-dashboard.plex.tv
-meta.plex.tv
-metadata.provider.plex.tv
-metrics.plex.tv
-proxy.plex.tv
-pubsub.plex.tv
-staging.plex.tv
-status.plex.tv
-vod.provider.plex.tv
-www.plex.tv
-################################
-#   SimpliSafe Alarm System    #
-################################
-sb.simplisafe.com
-simplisafe.com
